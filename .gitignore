@@ -1,0 +1,12 @@
+.env
+uv.lock
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.swp
+*.swo
+.DS_Store
+.vscode/
